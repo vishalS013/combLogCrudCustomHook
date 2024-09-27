@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.outerContainer {
+  background-color: blueviolet;
+}
+
